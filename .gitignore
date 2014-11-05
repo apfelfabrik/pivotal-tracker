@@ -6,5 +6,7 @@ pkg
 vendor
 .bundle
 .idea
+.ruby-version
+.ruby-gemset
 request_test.rb
 stale_fish-tmp.yml
